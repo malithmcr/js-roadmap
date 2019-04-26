@@ -37,6 +37,6 @@ I will use this repo to track my progress.
 * [Package management](./package_management/package_management.md)
 * [Project workflow](./project_workflow/project_workflow.md)
 * [Task runners](./task_runners/task_runners.md)
-* [Testing](./testing/testing.md)
+* [Testing](./testing/testing.md)✔
 * [TypeScript](./typescript/typescript.md)
 * [Version control](./version_control/version_control.md) ✔
