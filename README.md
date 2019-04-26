@@ -31,7 +31,7 @@ I will use this repo to track my progress.
 
 * [Getting a job](./getting_a_job/getting_a_job.md) ✔
 * [Infrastructure](./infrastructure/infrastructure.md)
-* [Linting](./linting/linting.md)
+* [Linting](./linting/linting.md) ✔
 * [Logging](./logging/logging.md)
 * [Networks](./networks/networks.md)
 * [Package management](./package_management/package_management.md)
