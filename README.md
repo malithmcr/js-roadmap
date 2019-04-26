@@ -4,6 +4,8 @@
 
 This is a roadmap for becoming a full stack [JavaScript](./frontend/javascript/javascript.md) developer with [React](./frontend/single_page_applications/single_page_applications.md) focus, below you will find some of the most relevant topics for building professional grade web applications at the time of writing this document.
 
+I will use this repo to track my progress.
+
 ### [FAQ](./faq/faq.md)
 
 ## Topics
