@@ -23,14 +23,13 @@ I will use this repo to track my progress.
 
 * [Frontend](./frontend/frontend.md)
   * [Bundling](./frontend/bundling/bundling.md)
-  * [Browser](./frontend/browser/browser.md)
-  * [CSS](./frontend/css/css.md)
-  * [HTML](./frontend/html/html.md)
-  * [JavaScript](./frontend/javascript/javascript.md)
-  * [Resources](./frontend/resources/resources.md)
-  * [Single page applications (SPA)](./frontend/single_page_applications/single_page_applications.md)
+  * [Browser](./frontend/browser/browser.md) ✔
+  * [CSS](./frontend/css/css.md) ✔
+  * [HTML](./frontend/html/html.md) ✔
+  * [JavaScript](./frontend/javascript/javascript.md)✔
+  * [Single page applications (SPA)](./frontend/single_page_applications/single_page_applications.md) ✔
 
-* [Getting a job](./getting_a_job/getting_a_job.md)
+* [Getting a job](./getting_a_job/getting_a_job.md) ✔
 * [Infrastructure](./infrastructure/infrastructure.md)
 * [Linting](./linting/linting.md)
 * [Logging](./logging/logging.md)
