@@ -8,9 +8,9 @@ It is a silly thing but most professionals use the same editors and if you don't
 
 The following editors are very popular at the time of writing this document:
 
-* [Visual studio code (VSC)](https://code.visualstudio.com/)
-* [Atom](https://atom.io/)
-* [Sublime text](https://www.sublimetext.com/)
-* [Vim](https://www.vim.org/about.php)
+* [Visual studio code (VSC)](https://code.visualstudio.com/) ✔
+* [Atom](https://atom.io/) ✔
+* [Sublime text](https://www.sublimetext.com/) ✔
+* [Vim](https://www.vim.org/about.php) - Basic
 
 **[back](../README.md)**
