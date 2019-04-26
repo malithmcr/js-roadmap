@@ -14,7 +14,7 @@ Databases are a core part of most enterprise applications and understanding them
 
 [MongoDB](https://www.mongodb.com/) is at the time of writing this document the most popular [document database](https://en.wikipedia.org/wiki/Document-oriented_database) and is very commonly used as the default database for [Node](../node/node.md)
 
-### MySQL
+### MySQL ✔
 
 [MySQL](https://www.mysql.com/) is at the time of writing this document one of the most common [relational databases](https://en.wikipedia.org/wiki/Relational_database) and although not as commonly used for [Node](../node/node.md) development is a lot more common in the industry than most other databases.
 
