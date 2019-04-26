@@ -34,9 +34,9 @@ I will use this repo to track my progress.
 * [Linting](./linting/linting.md) ✔
 * [Logging](./logging/logging.md)
 * [Networks](./networks/networks.md)
-* [Package management](./package_management/package_management.md)
-* [Project workflow](./project_workflow/project_workflow.md)
-* [Task runners](./task_runners/task_runners.md)
+* [Package management](./package_management/package_management.md) ✔
+* [Project workflow](./project_workflow/project_workflow.md) ✔
+* [Task runners](./task_runners/task_runners.md) ✔
 * [Testing](./testing/testing.md)✔
 * [TypeScript](./typescript/typescript.md)
 * [Version control](./version_control/version_control.md) ✔
