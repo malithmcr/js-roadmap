@@ -19,7 +19,7 @@ I will use this repo to track my progress.
   * [Message queues](./backend/message_queues/message_queues.md)
   * [Node](./backend/node/node.md)
 
-* [Editors](./editors/editors.md)
+* [Editors](./editors/editors.md)✔
 
 * [Frontend](./frontend/frontend.md)
   * [Bundling](./frontend/bundling/bundling.md)
