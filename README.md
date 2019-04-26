@@ -8,7 +8,7 @@ This is a roadmap for becoming a full stack [JavaScript](./frontend/javascript/j
 
 ## Topics
 
-* [Analytics](./analytics/analytics.md)
+* [Analytics](./analytics/analytics.md) ✔
 
 * [Backend](./backend/backend.md)
   * [Architecture](./backend/architecture/architecture.md)
