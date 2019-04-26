@@ -30,7 +30,7 @@ You can read more about Webpack [here](https://webpack.js.org/).
 
 * [Style loader](https://github.com/webpack-contrib/style-loader)
 * [Css loader](https://github.com/webpack-contrib/css-loader)
-* [Sass loader](https://github.com/webpack-contrib/sass-loader)
+* [Sass loader](https://github.com/webpack-contrib/sass-loader)✔
 * [Postcss loader](https://github.com/postcss/postcss-loader)
 * [Babel loader](https://github.com/babel/babel-loader)
 
@@ -38,8 +38,8 @@ You can read more about Webpack [here](https://webpack.js.org/).
 
 * [HtmlWebpackPlugin](https://webpack.js.org/plugins/html-webpack-plugin/)
 
-## Common Webpack additions
+## Common Webpack additions ✔
 
-* [Hot module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)
+* [Hot module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)  ✔
 
 **[back](../../README.md)**
