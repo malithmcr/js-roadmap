@@ -39,4 +39,4 @@ I will use this repo to track my progress.
 * [Task runners](./task_runners/task_runners.md)
 * [Testing](./testing/testing.md)
 * [TypeScript](./typescript/typescript.md)
-* [Version control](./version_control/version_control.md)
+* [Version control](./version_control/version_control.md) ✔
