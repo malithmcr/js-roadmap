@@ -14,7 +14,7 @@ I will use this repo to track my progress.
 
 * [Backend](./backend/backend.md)
   * [Architecture](./backend/architecture/architecture.md)
-  * [Client validation](./backend/client_validation/client_validation.md)
+  * [Client validation](./backend/client_validation/client_validation.md)✔
   * [Databases](./backend/databases/databases.md)
   * [Message queues](./backend/message_queues/message_queues.md)
   * [Node](./backend/node/node.md)
